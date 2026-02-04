@@ -24,6 +24,6 @@ e apoiar a tomada de decisão.
 
 ## 📂 Arquivos
 - [📊 Download do Dashboard (.pbix)](Analise_Metas_Portfolio.pbix)
-- [📄 Relatório em PDF](Analise_Metas_Portfolio.pdf)
+- [📄 Dashboard em PDF](Analise_Metas_Portfolio.pdf)
 
 
